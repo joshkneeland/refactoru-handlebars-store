@@ -1,0 +1,10 @@
+ 
+ ☐ HANDLEBARS STORE CLASS EXERCISE
+
+ ✔ Create an HTML5 page and include jQuery, Handlebars, and the products-data.js @done (14-10-27 11:19)
+ ✔ Inside the body of your page, add a single div with an ID of #product-container @done (14-10-27 11:22)
+ ✔ Create a script tag on your html page with an attribute of type="text/x-handlebars-template" and give it an id. @done (14-10-27 11:22)
+ ✔ Add a single div to the contents of the script tag and give it a class name of product. This will represent each individual product on the page. @done (14-10-27 11:27)
+ ☐ Select the script created in step 3 using jQuery, access the content via html(), and store it in variable.
+ ☐ Call Handlebars.compile and pass it the stored variable and store the result in a variable template
+ ☐ 
